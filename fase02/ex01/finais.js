@@ -1,3 +1,3 @@
 function finais(palavra){
-    return ("ect")
+    return("Ford Prefect".substring(9, 12));
 }
