@@ -1,3 +1,5 @@
 function maiusculo(palavra){
-    return("maiusculo".substring(0, 3).toUpperCase() + "maiusculo".substring(3, 9).toLowerCase());
+    return palavra.substring(0,3).toUpperCase() + palavra.substring(3,10).toLowerCase()
 }
+
+
