@@ -1,3 +1,4 @@
 function penultimo(palavra){
-    return("Gabriel".substring(6, 5));
+    return palavra.substring(7, 8)
 }
+
