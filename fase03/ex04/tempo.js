@@ -13,7 +13,7 @@ function tempo(data1, data2, unidade){
         return Math.round(periodo);
         default:
         var periodo = Math.abs(data1.getTime() - 
-        data2.getTime())/1000/60/60/24/365;
+        data2.getTime())/1000/60/60/24/30/12;
         return Math.round(periodo);
         break;
     }
