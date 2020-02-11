@@ -5,7 +5,8 @@ function por42(num1, num2){
             return Math.max(num1+42)
         }
         num1++
-    } if (!result)
+    } if (!result){
     console.log("Não encontrado")
     return false
+    }
 } 
