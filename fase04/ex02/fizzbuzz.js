@@ -13,3 +13,4 @@ function fizzbuzz(num1, num2){
     c++
     }
 }
+
